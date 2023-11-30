@@ -1,2 +1,2 @@
 # valuation
-Different company valuation method that I found. 
+My first step to different company valuation method that I found. 
