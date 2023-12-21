@@ -1,6 +1,7 @@
 # valuation
 My first step to different company valuation method and strategies that I found. 
 ## AMD Markov Returns Excel
+- Extracted 20 years worth of AMD's stock price data from Yahoo Finance. 
 - Get daily returns and prove that the returns are nomal and market is efficient.
 - If market is not efficient, look at the single transition probabilities and formulate simple strategy that makes more than the simple buy at open and sell at closing each day.
 
