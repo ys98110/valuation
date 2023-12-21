@@ -7,7 +7,7 @@ My first step to different company valuation method and strategies that I found.
 ### Result
 1. The strategy required for better return is different when you include 20 years data vs the recent 9 years.
 2. Simple buy and sell at opening and closing everyday yields average yearly return of 10% in the recent 9 years. 
-3. In the recent 9 years, simple buy at open and sell at closing strategy after relatively low return (state 1 or 2) in the previous day results in average yearly return of 35%
+3. In the recent 9 years, simple buy at open and sell at closing strategy after relatively low return in the previous day results in average yearly return of 35%
 4. Bonkers
 
 ## DCF
