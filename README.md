@@ -1,4 +1,4 @@
-# Valuation
+# Valuation and Strategies
 My first step to different company valuation method and strategies that I found. 
 ## AMD Markov Returns Excel
 - Extracted 20 years worth of AMD's stock price data from Yahoo Finance. 
