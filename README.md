@@ -17,8 +17,9 @@ In the excel file, I proved that the daily returns are not random and found out 
 In this notebook, instead of referring to a single previous day, I will refer to 2 or more past days to choose the trading days. 
 
 ### Result
-1. Referring back to 2 days to choose the days to trade leads to the best result.
-2. Since this is testing of a single stock, we need to do further testing on other stocks to see if this can be applicable in general. 
+1. Referring back to 1 days to choose the days to trade leads to the best result.
+2. However, there were very little difference the strategy made to choose the best days to trade.
+3. We need to test it on other stocks if the result is meaningful enough. 
 
 ## DCF
 Calculate the value of AMD using discount cash flow model. 
